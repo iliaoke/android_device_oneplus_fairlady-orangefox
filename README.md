@@ -25,7 +25,7 @@
 ```
 mkdir -p ~/android/OrangeFox_14
 cd ~/android/OrangeFox_14
-git clone https://gitlab.com/OrangeFox/sync.git
+git clone https://gitlab.com/liaoke123/sync.git
 cd sync
 ./orangefox_sync.sh --branch 14.1 --path ~/android/fox_14.1
 ```
