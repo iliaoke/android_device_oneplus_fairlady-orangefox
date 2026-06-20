@@ -29,7 +29,7 @@ git clone https://gitlab.com/OrangeFox/sync.git
 cd sync
 ./orangefox_sync.sh --branch 14.1 --path ~/android/fox_14.1
 ```
-### Clone Device-tree And Kernel
+### Clone Device-tree And Prebuilt Kernel
 ```
 cd ~/android/fox_14.1/device
 mkdir -p oneplus
